@@ -2,7 +2,7 @@ package CH07;
 
 import java.util.Scanner;
 
-public class C02While {
+public class C02WhileStar {
     public static void main(String[] args) {
 //        int dan = 2;
 
@@ -99,10 +99,56 @@ public class C02While {
 //            i++;
 //        }
         //전체를 와일문으로 묶어서 h값의 가운데까지는 증가(if) 그 이후로는 감소(else)
+
+//        while (true) {
+//            if (i < center) {
+//                while (i < center) {
+//                    int j = 0;
+//                    while (j < h - i - 1) {
+//                        System.out.print(" ");
+//                        j++;
+//                    }
+//                    j = 1;
+//                    while (j <= 2 * i + 1) {
+//                        System.out.print("*");
+//                        j++;
+//                    }
+//                    while (j < h - i) {
+//                        System.out.print(" ");
+//                        j++;
+//                    }
+//                    System.out.println();
+//                    i++;
+//                }
+//            }
+//            while (i < h) {
+//                int a = h - i;
+//                int j = 0;
+//                while (j < i) {
+//                    System.out.print(" ");
+//                    j++;
+//                }
+//                j = 1;
+//                int k = 0;
+//                while (k < 2 * a - 1) {
+//                    System.out.print("*");
+//                    k++;
+//                }
+//                while (j < h) {
+//                    System.out.print(" ");
+//                    j++;
+//                }
+//                System.out.println();
+//                i++;
+//            }
+//            break;
+//        }
+
         Scanner sc = new Scanner(System.in);
         int h = sc.nextInt();
         int i = 0;
         int center = h / 2;
+
         while (true) {
             if (i < center) {
                 while (i < center) {
@@ -146,5 +192,6 @@ public class C02While {
             }
             break;
         }
+
     }
 }
