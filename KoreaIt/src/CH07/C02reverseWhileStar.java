@@ -2,7 +2,7 @@ package CH07;
 
 import java.util.Scanner;
 
-public class C03reverseWhileStar {
+public class C02reverseWhileStar {
     public static void main(String[] args) {
 //        int dan = 2;
 
