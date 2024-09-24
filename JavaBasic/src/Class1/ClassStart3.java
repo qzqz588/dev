@@ -2,6 +2,7 @@ package Class1;
 
 public class ClassStart3 {
     public static void main(String[] args) {
+
         Student student1;
         student1 = new Student(); //클래스 선언
         student1.name = "학생1"; //변수 참조값 .(dot)으로 접근

@@ -11,6 +11,7 @@ public class classstart1 {
         int student2Grade = 80;
         System.out.println(studentName + studentGrade + studentAge);
         System.out.println(student2Name + student2Grade + student2Age);
-
+        int a = 3%3;
+        System.out.println("a = " + a);
     }
 }
