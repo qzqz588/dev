@@ -1,22 +1,17 @@
 package CH13EX;
 
-class Employee {
+abstract class Employee {
     public String name;
     private int age;
     private String addr;
+
+    //추상 메서드
+    abstract int payment();
 
     public Employee(String name, int age, String addr) {
         this.name = name;
         this.age = age;
         this.addr = addr;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
     }
 
     public int getAge() {
@@ -38,6 +33,11 @@ class Employee {
 
 class Parttimer extends Employee {
     private int hour_pay;
+    private int time; //시간저장
+    @Override
+    int payment() {
+        return hour_pay*time;
+    }
 
     public Parttimer(String name, int age, String addr,int hour_pay) {
         super(name, age, addr);
@@ -56,6 +56,11 @@ class Parttimer extends Employee {
 
 class Regular extends Employee{
     private int salary;
+
+    @Override
+    int payment() {
+        return salary/12;
+    }
 
     public void setSalary(int salary) {
         this.salary = salary;

@@ -1,6 +1,6 @@
 package CH12;
 
-public class Seller2 {
+public class Seller2 { //
     private int money;
     private int count;
     private int price;
@@ -10,12 +10,12 @@ public class Seller2 {
         this.count = count;
         this.price = price;
     }
+
     public int recevie(int money){
         this.money += money;
         int returnCount = money/price;
         this.count -= returnCount;
         return returnCount;
-
     }
 
     @Override

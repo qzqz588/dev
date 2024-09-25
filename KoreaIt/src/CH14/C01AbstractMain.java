@@ -1,0 +1,35 @@
+package CH14;
+
+//일반클래스 상속관계
+class Super1{
+    void Func(){}
+}
+class Sub1 extends Super1{
+    void Func(){System.out.println("Son1's Function");}
+}
+abstract class Super2{
+   abstract void Func();
+}
+class Sub2 extends Super2{
+    void Func(){System.out.println("Son2's Function");}
+}
+//추상클래스 상속관계
+
+
+public class C01AbstractMain {
+    public static void main(String[] args) {
+        //01 일반 클래스 상속관계 확인
+        Super1 ob1 = new Super1(); // 상위 클래스형 객체 생성 o
+        Sub1 ob2 = new Sub1();     // 하위 클래스형 객체 생성 o
+        ob1.Func();                 // 상위클래스에서 하위클래스가 추가한 메서드 접근X
+        Super1 ob3 = ob2;           // UPCASTING
+        ob3.Func();                 // 상위클래스에서 정의한 메서드를 하위클래스가 재정의(Overriding)한경우
+                                    // 하위클래스에서 재정의한 메서드 사용가능
+
+        //02 추상클래스 상속관계 확인
+//        Super2 ob4 = new Super2();         //상위 클래스형 객체 생성 x
+        Sub2 ob5 = new Sub2();             //하위 클래스형 객체생성 o(단 추상메서드를 반드시 재정의 해야함)
+        Super2 ob6 = ob5;                  //UPCASTING
+        ob6.Func();                        //하위클래스가 재정의한 메서드에 접근가능
+            }
+        }
