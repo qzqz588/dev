@@ -22,7 +22,7 @@ public class C04UpDownCastingMain {
         ob2.n1 = 100;
         ob2.n2 = 200;
 
-
+        //
         //UpCasting(상위클래스형 참조변수 = 하위 클래스의 객체),자동형변환
         Super ob3 = new Sub();
         ob3.n1=100;

@@ -1,0 +1,39 @@
+C:.
+│  Application.java
+│  Application.properties
+│
+├─controller
+│      BookController.java
+│      FrontController.java
+│      UserController.java
+│
+├─Dependencies
+│      mysql-connector-j-9.0.0.jar
+│
+├─Document
+│      00_1 INIT.drawio
+│      01.txt
+│      ERROR_NOTE
+│
+├─Domain
+│  ├─common
+│  │  ├─dao
+│  │  │      BookDao.java
+│  │  │      UserDao.java
+│  │  │
+│  │  ├─dto
+│  │  │      BookDto.java
+│  │  │      UserDto.java
+│  │  │
+│  │  └─service
+│  │          BookService.java
+│  │          UserService.java
+│  │
+│  ├─member
+│  └─user
+├─Properties
+│      CommonProperties.java
+│
+└─view
+        GUIViewer.java
+        TUIViewer.java
