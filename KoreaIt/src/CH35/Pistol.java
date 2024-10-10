@@ -1,5 +1,5 @@
-package CH35;
-
-public class Pistol extends Gun{
-
-}
+//package CH35;
+//
+//public class Pistol extends Gun{
+//
+//}
