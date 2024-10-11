@@ -1,4 +1,4 @@
-package CH36.Domain.common.dto;
+package CH36.Domain.Common.Dto;
 
 public class BookDto {
 

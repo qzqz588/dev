@@ -1,7 +1,7 @@
-package CH36.Domain.common.service;
+package CH36.Domain.Common.Service;
 
-import CH36.Domain.common.dao.BookDaoimpl;
-import CH36.Domain.common.dto.BookDto;
+import CH36.Domain.Common.Dao.BookDaoimpl;
+import CH36.Domain.Common.Dto.BookDto;
 
 import java.util.List;
 

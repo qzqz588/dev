@@ -1,11 +1,9 @@
-package CH36.Domain.common.service;
+package CH36.Domain.Common.Service;
 
-import CH36.Domain.common.dto.BookDto;
+import CH36.Domain.Common.Dto.BookDto;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class BookServiceTests {
 

@@ -1,15 +1,11 @@
-package CH36.Domain.common.dao;
+package CH36.Domain.Common.Dao;
 
-import CH36.Domain.common.dto.BookDto;
-import CH36.controller.FrontController;
+import CH36.Controller.FrontController;
 import org.junit.jupiter.api.Test;
 
-import java.awt.print.Book;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
-import static org.junit.jupiter.api.Assertions.*;
 class BookDaoimplTest {
 
 

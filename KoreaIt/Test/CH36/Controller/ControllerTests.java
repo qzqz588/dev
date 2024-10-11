@@ -1,12 +1,10 @@
-package CH36.controller;
+package CH36.Controller;
 
-import CH36.Domain.common.dto.BookDto;
+import CH36.Domain.Common.Dto.BookDto;
 import org.junit.jupiter.api.Test;
 
 import java.util.HashMap;
 import java.util.Map;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class ControllerTests {
 

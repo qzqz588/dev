@@ -1,7 +1,7 @@
-package CH36.controller;
+package CH36.Controller;
 
-import CH36.Domain.common.dto.BookDto;
-import CH36.Domain.common.service.BookServiceimpl;
+import CH36.Domain.Common.Dto.BookDto;
+import CH36.Domain.Common.Service.BookServiceimpl;
 
 import java.util.HashMap;
 import java.util.Map;
