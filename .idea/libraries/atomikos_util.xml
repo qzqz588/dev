@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="atomikos.util" type="repository">
+    <properties maven-id="com.atomikos:atomikos-util:6.0.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/atomikos/atomikos-util/6.0.0/atomikos-util-6.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/atomikos/transactions-api/6.0.0/transactions-api-6.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

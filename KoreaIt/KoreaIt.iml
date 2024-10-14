@@ -6,7 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="17" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="jsoup-1.18.1" level="project" />
     <orderEntry type="module-library" exported="">
@@ -91,7 +91,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
           <root url="jar://$MODULE_DIR$/src/CH36/Dependencies/hikari-cp-3.1.0.jar!/" />
@@ -105,11 +105,13 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/src/CH36/Dependencies/HikariCP-6.0.0.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/HikariCP-6.0.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" exported="" name="junit.jupiter.params" level="project" />
+    <orderEntry type="library" exported="" name="atomikos.util" level="project" />
   </component>
 </module>

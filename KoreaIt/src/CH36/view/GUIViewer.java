@@ -1,4 +1,5 @@
-package CH36.view;
+package CH36.View;
 
 public class GUIViewer {
+
 }
