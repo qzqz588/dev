@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c6121ee-26ec-4981-8b30-6ba65a679a1b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/JavaBasic/src/Ex/construct/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaBasic/src/Ex/construct/BookMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KoreaIt/KoreaIt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/KoreaIt/KoreaIt.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Class1/ClassStart3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/Class1/ClassStart3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Class1/ClassStart4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/Class1/ClassStart4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Class1/ClassStart5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/Class1/ClassStart5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Class1/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/Class1/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Class1/classstart1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/Class1/classstart1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Class1/classstart2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/Class1/classstart2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Ex/MovieReview.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/Ex/MovieReview.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Ex/MovieReviewMain1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/Ex/MovieReviewMain1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Ex/MovieReviewRef.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/Ex/MovieReviewRef.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Ex/Product/ProductOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/Ex/Product/ProductOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Ex/Product/ProductOrderRef.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/Ex/Product/ProductOrderRef.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Ex/Product/ProductOrderRef2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/Ex/Product/ProductOrderRef2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Ex/Product/ProductOrderRef3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/Ex/Product/ProductOrderRef3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/MinMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/MinMax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/oop/ex/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/oop/ex/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/oop/ex/AccountMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/oop/ex/AccountMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/oop/ex/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/oop/ex/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/oop/ex/RectangleProceduralMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/oop/ex/RectangleProceduralMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/oop1/MusicPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/oop1/MusicPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/oop1/MusicPlayerData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/oop1/MusicPlayerData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/oop1/MusicPlayerMain1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/oop1/MusicPlayerMain1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/oop1/MusicPlayerMain2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/oop1/MusicPlayerMain2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/oop1/MusicPlayerMain3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/oop1/MusicPlayerMain3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/ref/Bigdata.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/ref/Bigdata.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/ref/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/ref/Data.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/ref/Method1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/ref/Method1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/ref/Method2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/ref/Method2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/ref/MethodChange1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/ref/MethodChange1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/ref/MethodChange2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/ref/MethodChange2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/ref/NullMain1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/ref/NullMain1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/ref/NullMain3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/ref/NullMain3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/ref/NullMain4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/ref/NullMain4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/ref/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/ref/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/ref/VarChange1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/ref/VarChange1.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;qzqz588&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/qzqz588/dev.git&quot;,
+    &quot;accountId&quot;: &quot;35ff2898-e1e7-4447-b9af-062d11cb0a31&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2nNMPDn8bdb92KGxPZJ5k4oLiSI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BookMain.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/useer/Downloads/새 폴더/dev&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c6121ee-26ec-4981-8b30-6ba65a679a1b" name="Changes" comment="" />
+      <created>1728809054065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728809054065</updated>
+    </task>
+    <servers />
+  </component>
+</project>
