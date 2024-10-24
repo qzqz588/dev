@@ -3,8 +3,10 @@
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/../../../../TMP_IO/jsoup-1.18.1.jar!/" />
       <root url="jar://$PROJECT_DIR$/KoreaIt/src/CH23/mysql-connector-j-9.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/KoreaIt/src/CH36/Dependencies/hikari-cp-3.1.0.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/KoreaIt/src/CH36/Dependencies/hikari-cp-3.1.0.jar!/" recursive="false" />
   </library>
 </component>

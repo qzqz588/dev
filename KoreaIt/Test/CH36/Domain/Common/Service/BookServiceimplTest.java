@@ -8,16 +8,16 @@ import java.util.List;
 class BookServiceTests {
 
 
-    @Test
-    void bookServiceImpl_1 () throws Exception {
-        BookServiceimpl service = BookServiceimpl.getInstance();
-        boolean isSuccess=
-        service.bookRegistration(new BookDto(1122l, "이것이C언어다", "오렌지미디어", "121212"));
-        System.out.println("도서 등록여부 : " + isSuccess);
-    }
+//    @Test
+//    void bookServiceImpl_1 () throws Exception {
+//        BookServiceImpl service = BookServiceImpl.getInstance();
+//        boolean isSuccess=
+//        service.bookRegistration(new BookDto(1122l, "이것이C언어다", "오렌지미디어", "121212"));
+//        System.out.println("도서 등록여부 : " + isSuccess);
+//    }
     @Test
     void bookServiceImpl_2 () throws Exception {
-        BookServiceimpl service = BookServiceimpl.getInstance();
+        BookServiceImpl service = BookServiceImpl.getInstance();
         List<BookDto> list = service.getBooks();
         list.forEach(el-> System.out.println(el));
     }
